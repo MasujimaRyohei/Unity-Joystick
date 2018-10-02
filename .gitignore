@@ -1,9 +1,8 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+Unity-Joystick/[Ll]ibrary/
+Unity-Joystick/[Tt]emp/
+Unity-Joystick/[Oo]bj/
+Unity-Joystick/[Bb]uild/
+Unity-Joystick/[Bb]uilds/
 
 # Visual Studio cache directory
 .vs/
@@ -33,4 +32,3 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
