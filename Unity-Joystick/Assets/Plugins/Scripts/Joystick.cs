@@ -45,7 +45,7 @@ namespace VirtualInput
 
         // Movable joystick part.
         [SerializeField]
-        [Header("Movable joystick patr.")]
+        [Header("Movable joystick part.")]
         private GameObject stick;
 
         [SerializeField]
