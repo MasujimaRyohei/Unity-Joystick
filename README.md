@@ -8,7 +8,7 @@ Referenced by http://kan-kikuchi.hatenablog.com/entry/uGUI_Joystick_1
 Import to your project after download Joystick.unitypackage from [release](https://github.com/MasujimaRyohei/Unity-Joystick/releases).
 
 ## Author
-[@Masujima Ryohei](https://www.twitter.com/MasujimaRyohei/)
+[@mr](https://www.twitter.com/MasujimaRyohei/)
 
 ## Distribution License.
 [MIT](https://github.com/MasujimaRyohei/Unity-Joystick/blob/master/LICENSE)
